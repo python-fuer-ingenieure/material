@@ -15,11 +15,11 @@ Die Schnipsel im Buch wurden aus den Notebooks mit einem Skript erzeugt. Alle Co
 
 ## Begleitmaterial interaktiv ausprobieren
 
-Um erste Erfahrungen mit dem Quellcode zu sammeln, bietet sich die Browse-basierte Lösung *Binder* an. Dabei handelt es sich um einen Dienst, bei dem je nach Bedarf (durch Klick auf einen Link) eine virtuelle Maschine (VM) gestartet wird, auf der dann der Notebook-Server mit dem Inhalt des enstprechenden Repos läuft. Das Hochfahren der VM dauert ca. 2min und dann können Sie im Verzeichnis `notebooks` den Quellcode direkt ausführen (SHIFT+Enter in jeder Zelle, Details in Kapitel 1).
+Um erste Erfahrungen mit dem Quellcode zu sammeln, bietet sich die Browse-basierte Lösung *Binder* an. Dabei handelt es sich um einen Dienst, bei dem je nach Bedarf (durch Klick auf einen Link) eine virtuelle Maschine (VM) gestartet wird, auf der dann der Notebook-Server mit dem Inhalt des enstprechenden Repos läuft. Das Hochfahren der VM dauert ca. 2 min.  Danach erscheint der Inhalt des Verzeichnisses `notebooks` in einer Art Datei-Browser. Um zum ausführbaren Codes zu gelangen, klicken Sie z.&#x202F;B. auf `kapitel_01_erstkontakt` und  dann auf `erstkontakt.ipynb`. Das entsprechende Notebook öffnet sich in einem neuen Tab, sodass der Datei-Browser-Tab erhalten bleibt. Dadurch ist es einfach, mehrere Notebooks parallel laufen zu lassen. Im Notebook können Sie nun den Quellcode direkt ausführen (`SHIFT+Enter` in jeder Zelle, Details Buch-Kapitel 1). Weiterhin hilfrech: *Help* → *User Interface Tour* und *Help* → *Keyboard Shortcuts*.
 
-Hier geht's nun zum Notebook-Server auf einer eigens für Sie gestarteten VM: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-fuer-ingenieure/material/main). Denn ausführbaren Quellcode finden Sie dann nach Kapitel sortiert im Verzeichnis `notebooks`. Der beste Startpunkt ist `kapitel_01_erstkontakt`.
+Hier geht's nun zum Notebook-Server auf einer eigens für Sie gestarteten Binder-VM: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-fuer-ingenieure/material/main?urlpath=/tree/notebooks).
 
-Wenn Sie über die Kennenlernphase hinaus sind, empfehlen wir übrigens sich Python und die relevante Zussatzsoftware lokal auf Ihrem Rechner zu installieren. Näheres dazu in Kapitel 2.
+Wenn Sie über die Kennenlernphase hinaus sind, empfehlen wir übrigens sich Python und die relevante Zussatzsoftware lokal auf Ihrem Rechner zu installieren. Näheres dazu in Buch-Kapitel 2.
 
 ## Fehler und Verbesserungsvorschläge melden
 
