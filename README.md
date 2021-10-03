@@ -17,7 +17,7 @@ Die Schnipsel im Buch wurden aus den Notebooks mit einem Skript erzeugt. Alle Co
 
 Um erste Erfahrungen mit dem Quellcode zu sammeln, bietet sich die Browse-basierte Lösung *Binder* an. Dabei handelt es sich um einen Dienst, bei dem je nach Bedarf (durch Klick auf einen Link) eine virtuelle Maschine (VM) gestartet wird, auf der dann der Notebook-Server mit dem Inhalt des enstprechenden Repos läuft. Das Hochfahren der VM dauert ca. 2min und dann können Sie im Verzeichnis `notebooks` den Quellcode direkt ausführen (SHIFT+Enter in jeder Zelle, Details in Kapitel 1).
 
-Hier geht's nun zum Notebook-Server auf einer eigens für Sie gestarteten VM: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-fuer-ingenieure/material/main?labpath=https%3A%2F%2Fgithub.com%2Fpython-fuer-ingenieure%2Fmaterial%2Ftree%2Fmain%2Fnotebooks).
+Hier geht's nun zum Notebook-Server auf einer eigens für Sie gestarteten VM: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-fuer-ingenieure/material/main). Denn ausführbaren Quellcode finden Sie dann nach Kapitel sortiert im Verzeichnis `notebooks`. Der beste Startpunkt ist `kapitel_01_erstkontakt`.
 
 Wenn Sie über die Kennenlernphase hinaus sind, empfehlen wir übrigens sich Python und die relevante Zussatzsoftware lokal auf Ihrem Rechner zu installieren. Näheres dazu in Kapitel 2.
 
