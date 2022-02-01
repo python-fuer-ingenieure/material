@@ -38,7 +38,7 @@ Sparen Sie sich das Abtippen; alle Links im Buch sind hier noch einmal zum Ankli
     - https://numpy.org/devdocs/reference/arrays.indexing.html - Die fabelhafte Welt der Array-Indizierung
     - https://numpy.org/doc/stable/reference/routines.math.html - Mathematische Funktionen
     - https://numpy.org/doc/stable/user/numpy-for-matlab-users.html - *NumPy* für *Matlab*-Benutzer
-- Kapitel 6: *Brunfzeit für Termhirsche*
+- Kapitel 6: *Brunftzeit für Termhirsche*
     - https://docs.sympy.org/ - Dokumentation zu *SymPy*
 - Kapitel 7: *Visualisierung*
     - https://matplotlib.org/ - Dokumentation zu *Matplotlib*
