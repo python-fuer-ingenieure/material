@@ -77,7 +77,7 @@ Sparen Sie sich das Abtippen; alle Links im Buch sind hier noch einmal zum Ankli
 - Kapitel 17: *Die 10 nützlichsten Module, die bisher nicht erwähnt wurden*
     - https://riverbankcomputing.com/software/pyqt - GUIs mit *PyQt*
     - https://docs.python.org/3/library/re.html - Details zu regulären Ausdrücken
-    - https://scikit-learn.org/stable/user_guide.html} - Dokumentation zu *Scikit-learn*
+    - https://scikit-learn.org/stable/user_guide.html - Dokumentation zu *Scikit-learn*
 - Kapitel 18: *10 fiese Fallstricke und 3 Mal schwarze Python-Magie*
     - https://docs.python.org/3/library/2to3.html - Automatische Konversion von Python 2 zu Python 3
 - Kapitel 19: *10 nützliche Links*
